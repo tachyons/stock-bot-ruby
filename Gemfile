@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'puma'
+gem 'luis',github: 'tachyons/luis'
+gem 'bot_framework',github: 'tachyons/botframework-ruby'
