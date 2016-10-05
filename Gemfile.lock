@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/tachyons/botframework-ruby.git
-  revision: 1930efb18bdb78239bd4804552f6d207f34f1d08
+  revision: 9334bfe34e7455da897915df819ab961a59eeded
+  branch: master
   specs:
     bot_framework (0.1.0beta)
       httparty
